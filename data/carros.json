@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "modelo": "Ford Ka",
+        "disponivel": false
+    },
+    {
+        "id": 2,
+        "modelo": "Fiat Uno",
+        "disponivel": false
+    },
+    {
+        "id": 3,
+        "modelo": "Chevrolet Onix",
+        "disponivel": false
+    },
+    {
+        "id": 4,
+        "modelo": "Volkswagen Gol",
+        "disponivel": true
+    },
+    {
+        "id": 5,
+        "modelo": "Renault Kwid",
+        "disponivel": true
+    },
+    {
+        "id": 6,
+        "modelo": "Hyundai HB20",
+        "disponivel": true
+    }
+]
